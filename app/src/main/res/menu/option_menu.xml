@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/show_as_linear"
+        android:title="以线性布局显示" />
+
+    <item
+        android:id="@+id/show_as_grid"
+        android:title="以网格布局显示" />
+
+</menu>
